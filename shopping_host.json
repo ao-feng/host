@@ -1,9 +1,9 @@
 {
-  "web_host": "aHR0cDovLzE1NC4yMjAuMi44Mi8=",
+  "web_host": "aHR0cDovLzE1NC4yMjAuMi44Mjo4ODgxLw==",
   "login_host": "MTU0LjIyMC4yLjgy",
   "server_hosts": [
     "MTU0LjIyMC4yLjgy"
   ],
-  "pay_host": "aHR0cDovLzE1NC4yMjAuMi44Mi8=",
-  "game_host": "aHR0cDovLzE1NC4yMjAuMi44Mi8="
+  "pay_host": "aHR0cDovLzE1NC4yMjAuMi44Mjo4ODgxLw==",
+  "game_host": "aHR0cDovLzE1NC4yMjAuMi44Mjo4ODgxLw=="
 }
